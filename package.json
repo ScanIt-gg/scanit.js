@@ -1,0 +1,31 @@
+{
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  },
+  "name": "scanit.js",
+  "description": "The oficial package to interact with the ScanIt APIs",
+  "version": "0.0.2",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScanIt-gg/scanit.js.git"
+  },
+  "keywords": [
+    "scanit",
+    "scanit.js",
+    "express",
+    "express-scanit",
+    "vpn checker",
+    "anti vpn",
+    "captcha"
+  ],
+  "author": "MrlolDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScanIt-gg/scanit.js/issues"
+  },
+  "homepage": "https://github.com/ScanIt-gg/scanit.js#readme"
+}
